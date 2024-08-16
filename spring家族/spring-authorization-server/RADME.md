@@ -7,3 +7,7 @@
 文章来源：https://juejin.cn/user/4125023358427342/posts
 源码：https://github.com/WatermelonPlanet/spring-authorization-server-master
 https://github.com/WatermelonPlanet/watermelon-cloud
+
+
+
+源码：https://github.com/ReLive27/spring-security-oauth2-sample
